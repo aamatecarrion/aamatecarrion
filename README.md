@@ -1,6 +1,10 @@
 ## Proyects/Creations preview
 
+### juegojavascript
+![mini shooting game project gif preview](https://github.com/aamatecarrion/juegojavascript/blob/main/gif_previews/preview.gif)
 
+Demo: [https://aamatecarrion.github.io/juegojavascript/](https://aamatecarrion.github.io/juegojavascript/)
+Repo: [https://github.com/aamatecarrion/juegojavascript](https://github.com/aamatecarrion/juegojavascript)
 
 ## Tech stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
