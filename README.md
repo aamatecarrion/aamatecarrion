@@ -10,8 +10,6 @@ The real purpose of this software was to show my coding skills, learn and have s
 Demo: [https://aamatecarrion.github.io/juegojavascript/](https://aamatecarrion.github.io/juegojavascript/)
 Repo: [https://github.com/aamatecarrion/juegojavascript](https://github.com/aamatecarrion/juegojavascript)
 
-Repo: [https://github.com/aamatecarrion/juegojavascript](https://github.com/aamatecarrion/juegojavascript)
-
 ### analizador_whatsapp
 El proyecto consiste en una aplicación web cuya finalidad es analizar conversaciones de whatsapp exportadas a txt y mostrar datos y gráficos sobre estas.
 
