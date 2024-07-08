@@ -1,5 +1,3 @@
-## Proyects/Creations preview
-
 ### juegojavascript
 ![mini shooting game project gif preview](https://github.com/aamatecarrion/juegojavascript/blob/main/gif_previews/preview.gif)
 
@@ -11,6 +9,21 @@ The real purpose of this software was to show my coding skills, learn and have s
 
 Demo: [https://aamatecarrion.github.io/juegojavascript/](https://aamatecarrion.github.io/juegojavascript/)
 Repo: [https://github.com/aamatecarrion/juegojavascript](https://github.com/aamatecarrion/juegojavascript)
+
+Repo: [https://github.com/aamatecarrion/juegojavascript](https://github.com/aamatecarrion/juegojavascript)
+
+### analizador_whatsapp
+El proyecto consiste en una aplicación web cuya finalidad es analizar conversaciones de whatsapp exportadas a txt y mostrar datos y gráficos sobre estas.
+
+Repo: [https://github.com/aamatecarrion/analizador_whatsapp](https://github.com/aamatecarrion/analizador_whatsapp)
+
+![gráficos](https://github.com/aamatecarrion/analizador_whatsapp/blob/main/previews/gráficos.png)
+![esquema_base](https://github.com/aamatecarrion/analizador_whatsapp/blob/main/previews/esquema_base.png)
+![código_gráficos](https://github.com/aamatecarrion/analizador_whatsapp/blob/main/previews/código_gráficos.png)
+![código_analizar](https://github.com/aamatecarrion/analizador_whatsapp/blob/main/previews/código_analizar.png)
+![código_login](https://github.com/aamatecarrion/analizador_whatsapp/blob/main/previews/código_login.png)
+
+
 
 ## Tech stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
