@@ -16,12 +16,8 @@ El proyecto consiste en una aplicación web cuya finalidad es analizar conversac
 Repo: [https://github.com/aamatecarrion/analizador_whatsapp](https://github.com/aamatecarrion/analizador_whatsapp)
 
 ![gráficos](https://github.com/aamatecarrion/analizador_whatsapp/blob/main/previews/gráficos.png)
-![esquema_base](https://github.com/aamatecarrion/analizador_whatsapp/blob/main/previews/esquema_base.png)
 ![código_gráficos](https://github.com/aamatecarrion/analizador_whatsapp/blob/main/previews/código_gráficos.png)
 ![código_analizar](https://github.com/aamatecarrion/analizador_whatsapp/blob/main/previews/código_analizar.png)
-![código_login](https://github.com/aamatecarrion/analizador_whatsapp/blob/main/previews/código_login.png)
-
-
 
 ## Tech stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
