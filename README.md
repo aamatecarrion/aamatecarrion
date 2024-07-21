@@ -12,35 +12,35 @@ Está disponible para instalar como PWA.
 This is a React + Material UI app designed to be the successor to the event/activity logging app I developed in plain JavaScript. The main idea of the application is to be able to log events in the browser's localStorage without the need for any server, and to be able to export the data to a JSON file. Additionally, I want there to be a section where a series of charts and calculated data can be viewed based on the collected data. The idea is for the application to serve a general purpose so that people can log whatever they want and become more aware of what they do with their lives.
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap">
-<div style="border: 1px solid black; padding: 10px">
-<h4> Pantalla de inicio</h4>
-<img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/instalar2.png" width="300px" style="border: 1px solid black">
-</div>
+    <div style="border: 1px solid black; padding: 10px">
+        <h4> Pantalla de inicio</h4>
+        <img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/instalar2.png" width="300px" style="border: 1px solid black">
+    </div>
+    <div style="border: 1px solid black; padding: 10px">
+        <h4> Cuadro de nuevo registro</h4>
+        <img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/nuevo_registro.png" width="300px" style="border: 1px solid black">  
+    </div>
+    <div style="border: 1px solid black; padding: 10px">
+        <h4> Detalles del registro</h4>
+        <img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/detalles.png" width="300px" style="border: 1px solid black">
+    </div>
+    <div style="border: 1px solid black; padding: 10px">
+        <h4> Botones para añadir un registro rápidamente</h4>
+        <img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/botones.png" width="300px" style="border: 1px solid black">
+    </div>
+    <div style="border: 1px solid black; padding: 10px">
+        <h4> Pantalla para exportar los datos</h4>
+        <img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/pantalla_exportacion.png" width="300px" style="border: 1px solid black">
+    </div>
+    <div style="border: 1px solid black; padding: 10px">
+        <h4> Pantalla para importar los datos previamente exportados</h4>
+        <img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/pantalla_importacion.png" width="300px" style="border: 1px solid black">
+    </div>
+    <div style="border: 1px solid black; padding: 10px">
+        <h4> Ejemplo de archivo de respaldo</h4>
+        <img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/archivo_de_respaldo.png" width="300px" style="border: 1px solid black">
+    </div>
 <div>
-<h4> Cuadro de nuevo registro</h4>
-<img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/nuevo_registro.png" width="300px" style="border: 1px solid black">  
-</div>
-<div>
-<h4> Detalles del registro</h4>
-<img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/detalles.png" width="300px" style="border: 1px solid black">
-</div>
-<div>
-<h4> Botones para añadir un registro rápidamente</h4>
-<img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/botones.png" width="300px" style="border: 1px solid black">
-</div>
-<div>
-<h4> Pantalla para exportar los datos</h4>
-<img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/pantalla_exportacion.png" width="300px" style="border: 1px solid black">
-</div>
-<div>
-<h4> Pantalla para importar los datos previamente exportados</h4>
-<img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/pantalla_importacion.png" width="300px" style="border: 1px solid black">
-</div>
-<div>
-<h4> Ejemplo de archivo de respaldo</h4>
-<img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/archivo_de_respaldo.png" width="300px" style="border: 1px solid black">
-</div>
-<div >
 
 ### juegojavascript
 
