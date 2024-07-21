@@ -1,5 +1,5 @@
 ## Proyectos destacados
-____________________________________________________________________
+
 
 ### juegojavascript
 ![mini shooting game project gif preview](https://github.com/aamatecarrion/juegojavascript/blob/main/gif_previews/preview.gif)
