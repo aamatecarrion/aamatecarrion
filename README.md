@@ -4,30 +4,46 @@
 
 Demo: https://aamatecarrion.github.io/log-improved/
 Repo: https://github.com/aamatecarrion/log-improved
- 
+
 Esto es una app hecha con React y Material UI pensada para ser la sucesora de la app de registro de eventos/actividades que desarrollé en javascript puro. La idea principal de la aplicación es poder registrar eventos en el localStorage del navegador sin necesidad de ningún servidor y poder exportar los datos a un archivo json. Adicionalmente quiero que haya una sección donde se puedan ver una serie de gráficos y datos calculados a partir de los datos recogidos. La idea es que la aplicación sirva para un uso general para que la gente registre lo que quiera y sea más consciente de lo que hace con su vida.
 
 Está disponible para instalar como PWA.
 
 This is a React + Material UI app designed to be the successor to the event/activity logging app I developed in plain JavaScript. The main idea of the application is to be able to log events in the browser's localStorage without the need for any server, and to be able to export the data to a JSON file. Additionally, I want there to be a section where a series of charts and calculated data can be viewed based on the collected data. The idea is for the application to serve a general purpose so that people can log whatever they want and become more aware of what they do with their lives.
 
-#### Pantalla de inicio
-![](https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/instalar2.png)<br>
-
-#### Cuadro de nuevo registro
+<div style="display: flex; flex-direction: row; flex-wrap: wrap">
+<div>
+<h4> Pantalla de inicio</h4>
+<img>https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/instalar2.png</img>
+</div>
+<div>
+<h4> Cuadro de nuevo registro</h4>
 <img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/nuevo_registro.png" width="50%">
-#### Detalles del registro<br>
+</div>
+<div>
+<h4> Detalles del registro</h4>
 <img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/detalles.png" width="40%">
-#### Botones para añadir un registro rápidamente<br>
-![](https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/botones.png)<br>
-#### Pantalla para exportar los datos<br>
-![](https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/pantalla_exportacion.png)<br>
-#### Pantalla para importar los datos previamente exportados<br>
-![](https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/pantalla_importacion.png)<br>
-#### Ejemplo de archivo de respaldo<br>
-![](https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/archivo_de_respaldo.png)<br>
+</div>
+<div>
+<h4> Botones para añadir un registro rápidamente</h4>
+<img>https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/botones.png</img>
+</div>
+<div>
+<h4> Pantalla para exportar los datos</h4>
+<img>https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/pantalla_exportacion.png</img>
+</div>
+<div>
+<h4> Pantalla para importar los datos previamente exportados</h4>
+<img>https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/pantalla_importacion.png</img>
+</div>
+<div>
+<h4> Ejemplo de archivo de respaldo</h4>
+<img>https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/archivo_de_respaldo.png</img>
+</div>
+<div >
 
 ### juegojavascript
+
 ![mini shooting game project gif preview](https://github.com/aamatecarrion/juegojavascript/blob/main/gif_previews/preview.gif)
 
 Esto es un minijuego de disparos que desarrollé para una tarea de clase en JavaScript puro.
@@ -40,6 +56,7 @@ Demo: [https://aamatecarrion.github.io/juegojavascript/](https://aamatecarrion.g
 Repo: [https://github.com/aamatecarrion/juegojavascript](https://github.com/aamatecarrion/juegojavascript)
 
 ### analizador_whatsapp
+
 El proyecto consiste en una aplicación web cuya finalidad es analizar conversaciones de whatsapp exportadas a txt y mostrar datos y gráficos sobre estas.
 
 Repo: [https://github.com/aamatecarrion/analizador_whatsapp](https://github.com/aamatecarrion/analizador_whatsapp)
@@ -49,7 +66,9 @@ Repo: [https://github.com/aamatecarrion/analizador_whatsapp](https://github.com/
 ![código_analizar](https://github.com/aamatecarrion/analizador_whatsapp/blob/main/previews/código_analizar.png)
 
 ## Tech stack
+
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
