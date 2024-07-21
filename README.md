@@ -12,10 +12,10 @@ Está disponible para instalar como PWA.
 This is a React + Material UI app designed to be the successor to the event/activity logging app I developed in plain JavaScript. The main idea of the application is to be able to log events in the browser's localStorage without the need for any server, and to be able to export the data to a JSON file. Additionally, I want there to be a section where a series of charts and calculated data can be viewed based on the collected data. The idea is for the application to serve a general purpose so that people can log whatever they want and become more aware of what they do with their lives.
 
 <div>
-    <img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/instalar2.png" width="300px" style="border: 1px solid black"></img>
+    <img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/home.png" width="300px" style="border: 1px solid black"></img>
     <img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/detalles.png" width="300px" style="border: 1px solid black">
+    <img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/configuracion.png" width="300px" style="border: 1px solid black">
     <img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/botones.png" width="300px" style="border: 1px solid black">
-    <img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/pantalla_exportacion.png" width="300px" style="border: 1px solid black">
         
 </div>
 
