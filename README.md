@@ -14,12 +14,10 @@ This is a React + Material UI app designed to be the successor to the event/acti
 #### Pantalla de inicio
 ![](https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/instalar2.png)<br>
 
-<img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/nuevo_registro.png" alt="Descripción de la imagen" width="500">
-
 #### Cuadro de nuevo registro
-![](https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/nuevo_registro.png)<br>
+<img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/nuevo_registro.png" width="50%">
 #### Detalles del registro<br>
-![](https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/detalles.png)<br>
+<img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/detalles.png" width="40%">
 #### Botones para añadir un registro rápidamente<br>
 ![](https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/botones.png)<br>
 #### Pantalla para exportar los datos<br>
