@@ -14,7 +14,7 @@ This is a React + Material UI app designed to be the successor to the event/acti
 <div style="display: flex; flex-direction: row; flex-wrap: wrap">
 <div>
 <h4> Pantalla de inicio</h4>
-<img>https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/instalar2.png</img>
+<img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/instalar2.png"></img>
 </div>
 <div>
 <h4> Cuadro de nuevo registro</h4>
@@ -26,19 +26,19 @@ This is a React + Material UI app designed to be the successor to the event/acti
 </div>
 <div>
 <h4> Botones para añadir un registro rápidamente</h4>
-<img>https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/botones.png</img>
+<img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/botones.png"></img>
 </div>
 <div>
 <h4> Pantalla para exportar los datos</h4>
-<img>https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/pantalla_exportacion.png</img>
+<img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/pantalla_exportacion.png"></img>
 </div>
 <div>
 <h4> Pantalla para importar los datos previamente exportados</h4>
-<img>https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/pantalla_importacion.png</img>
+<img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/pantalla_importacion.png"></img>
 </div>
 <div>
 <h4> Ejemplo de archivo de respaldo</h4>
-<img>https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/archivo_de_respaldo.png</img>
+<img src="https://github.com/aamatecarrion/log-improved/blob/main/vista_previa_log_improved/archivo_de_respaldo.png"></img>
 </div>
 <div >
 
