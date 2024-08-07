@@ -34,7 +34,8 @@ Repo: [https://github.com/aamatecarrion/juegojavascript](https://github.com/aama
 
 ### analizador_whatsapp
 
-El proyecto consiste en una aplicación web cuya finalidad es analizar conversaciones de whatsapp exportadas a txt y mostrar datos y gráficos sobre estas.
+El proyecto consistió en una aplicación web cuya finalidad es analizar conversaciones de whatsapp exportadas a txt y mostrar datos y gráficos sobre estas.
+Lo realicé como trabajo de fin de grado de ASIR en 2022.
 
 Repo: [https://github.com/aamatecarrion/analizador_whatsapp](https://github.com/aamatecarrion/analizador_whatsapp)
 
